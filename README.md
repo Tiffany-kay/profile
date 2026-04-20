@@ -13,5 +13,5 @@ I’m currently rebranding my online presence and building a stronger, more prof
 - Preparing for the next stage: portfolio launch
 
 ## Let’s connect
-- LinkedIn: *(add your link)*
-- Portfolio: *(coming soon)*
+- Follow my work here on GitHub
+- Portfolio site launching soon

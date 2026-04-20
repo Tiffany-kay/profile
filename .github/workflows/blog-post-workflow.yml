@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Points specifically to your "TiffExplores" logic dumps
+          feed_list: "https://hashnode.com/@TiffExplores/rss.xml"

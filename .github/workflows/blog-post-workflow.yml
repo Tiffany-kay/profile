@@ -1,4 +1,4 @@
-nname: Latest blog post workflow
+name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour

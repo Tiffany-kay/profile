@@ -37,6 +37,8 @@
 
 ### 📝 Logic Dumps & Writing
 I document technical specs and post-mortems to help other devs avoid the same rabbit holes I've already mapped out.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 *Check out my latest builds on [Hashnode](https://hashnode.com/@TiffExplores)...*
 ---

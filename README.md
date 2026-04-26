@@ -48,11 +48,6 @@
 - **Impact**: Built the front-end interface and refactored backend logic to eliminate user-to-API latency, ensuring high reliability for the startup's production release.
 - **Tech**: Node.js; SQL; RESTful data flows; Frontend framework integration.
 
-**Mental Baddie System Architecture**
-- **Role**: Co-Founder & Product Developer.
-- **Impact**: Engineered the system architecture and implemented end-to-end data encryption for an AI-powered mental wellness chatbot.
-- **Tech**: Cloud infrastructure; security-first design; AI chatbot development.
-
 ---
 
 ### Technical Stack
@@ -99,6 +94,5 @@ I document technical specs and post-mortems to bridge the gap between "it works"
 <div align="center">
   <p>Made with ☕ and too many <code>console.log()</code> statements.</p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Cloud.png" alt="Cloud" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" />
+ 
 </div>
